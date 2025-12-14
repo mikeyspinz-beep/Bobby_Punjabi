@@ -1,5 +1,5 @@
 import React from 'react';
-import { GameCanvas } from './components/GameCanvas';
+iimport { GameCanvas } from './GameCanvas';
 
 function App() {
   return (
